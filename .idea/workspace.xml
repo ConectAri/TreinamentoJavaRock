@@ -6,15 +6,16 @@
   <component name="ChangeListManager">
     <list default="true" id="e530c359-568e-4e23-851f-dae6f490a7d9" name="Changes" comment="Exercise 04">
       <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/atividadesRocketseat/src/main/java/com/arimoura/rocketseat/atividadesRocketseat/Je01_sinxate_semantica/Conta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/atividadesRocketseat/src/main/java/com/arimoura/rocketseat/atividadesRocketseat/Je01_sinxate_semantica/MinhaClasse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/atividadesRocketseat/src/main/java/com/arimoura/rocketseat/atividadesRocketseat/Je02_variaveis/VariaveisApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/atividadesRocketseat/src/main/java/com/arimoura/rocketseat/atividadesRocketseat/Je03_identacao/BoletimEstudantil01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/atividadesRocketseat/src/main/java/com/arimoura/rocketseat/atividadesRocketseat/Je03_identacao/BoletimEstudantil02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/atividadesRocketseat/src/main/java/com/arimoura/rocketseat/atividadesRocketseat/Je03_identacao/IdentacaoApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/atividadesRocketseat/src/main/java/com/arimoura/rocketseat/atividadesRocketseat/Je04_horaDaVerdade/ContaCorrente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/atividadesRocketseat/src/main/java/com/arimoura/rocketseat/atividadesRocketseat/Je04_horaDaVerdade/RodarContaCorrente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/atividadesRocketseat/src/main/java/com/arimoura/rocketseat/atividadesRocketseat/Je04_horaDaVerdade/Transacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/atividadesRocketseat/src/main/java/com/arimoura/rocketseat/atividadesRocketseat/horaDaVerdade_01/ContaCorrente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/atividadesRocketseat/src/main/java/com/arimoura/rocketseat/atividadesRocketseat/horaDaVerdade_01/RodarContaCorrente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/atividadesRocketseat/src/main/java/com/arimoura/rocketseat/atividadesRocketseat/horaDaVerdade_01/Transacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/atividadesRocketseat/src/main/java/com/arimoura/rocketseat/atividadesRocketseat/je01_sinxate_semantica/Conta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/atividadesRocketseat/src/main/java/com/arimoura/rocketseat/atividadesRocketseat/je01_sinxate_semantica/MinhaClasse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/atividadesRocketseat/src/main/java/com/arimoura/rocketseat/atividadesRocketseat/je02_variaveis/VariaveisApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/atividadesRocketseat/src/main/java/com/arimoura/rocketseat/atividadesRocketseat/je03_identacao/BoletimEstudantil01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/atividadesRocketseat/src/main/java/com/arimoura/rocketseat/atividadesRocketseat/je03_identacao/BoletimEstudantil02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/atividadesRocketseat/src/main/java/com/arimoura/rocketseat/atividadesRocketseat/je03_identacao/IdentacaoApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/atividadesRocketseat/src/main/java/com/arimoura/rocketseat/atividadesRocketseat/je04_palavras_reservadas/tiposPrimitivos.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,11 +70,11 @@
 }]]></component>
   <component name="RunManager" selected="Application.RodarContaCorrente">
     <configuration name="MinhaClasse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.arimoura.rocketseat.atividadesRocketseat.Je01_sinxate_semantica.MinhaClasse" />
+      <option name="MAIN_CLASS_NAME" value="com.arimoura.rocketseat.atividadesRocketseat.je01_sinxate_semantica.MinhaClasse" />
       <module name="atividadesRocketseat" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.arimoura.rocketseat.atividadesRocketseat.Je01_sinxate_semantica.*" />
+          <option name="PATTERN" value="com.arimoura.rocketseat.atividadesRocketseat.je01_sinxate_semantica.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,11 +83,11 @@
       </method>
     </configuration>
     <configuration name="RodarContaCorrente" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.arimoura.rocketseat.atividadesRocketseat.Je04_horaDaVerdade.RodarContaCorrente" />
+      <option name="MAIN_CLASS_NAME" value="com.arimoura.rocketseat.atividadesRocketseat.horaDaVerdade_01.RodarContaCorrente" />
       <module name="atividadesRocketseat" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.arimoura.rocketseat.atividadesRocketseat.Je04_horaDaVerdade.*" />
+          <option name="PATTERN" value="com.arimoura.rocketseat.atividadesRocketseat.horaDaVerdade_01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,11 +96,11 @@
       </method>
     </configuration>
     <configuration name="VariaveisApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.arimoura.rocketseat.atividadesRocketseat.Je02_variaveis.VariaveisApp" />
+      <option name="MAIN_CLASS_NAME" value="com.arimoura.rocketseat.atividadesRocketseat.je02_variaveis.VariaveisApp" />
       <module name="atividadesRocketseat" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.arimoura.rocketseat.atividadesRocketseat.Je02_variaveis.*" />
+          <option name="PATTERN" value="com.arimoura.rocketseat.atividadesRocketseat.je02_variaveis.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,7 +140,7 @@
       <option name="presentableId" value="Default" />
       <updated>1721583223721</updated>
       <workItem from="1721583224839" duration="850000" />
-      <workItem from="1721584256011" duration="4695000" />
+      <workItem from="1721584256011" duration="5899000" />
     </task>
     <servers />
   </component>
