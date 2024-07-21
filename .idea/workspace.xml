@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e530c359-568e-4e23-851f-dae6f490a7d9" name="Changes" comment="">
+    <list default="true" id="e530c359-568e-4e23-851f-dae6f490a7d9" name="Changes" comment="Exercise 04">
       <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/atividadesRocketseat/src/main/java/com/arimoura/rocketseat/atividadesRocketseat/Je01_sinxate_semantica/Conta.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/atividadesRocketseat/src/main/java/com/arimoura/rocketseat/atividadesRocketseat/Je01_sinxate_semantica/MinhaClasse.java" afterDir="false" />
@@ -15,8 +15,6 @@
       <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/atividadesRocketseat/src/main/java/com/arimoura/rocketseat/atividadesRocketseat/Je04_horaDaVerdade/ContaCorrente.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/atividadesRocketseat/src/main/java/com/arimoura/rocketseat/atividadesRocketseat/Je04_horaDaVerdade/RodarContaCorrente.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/atividadesRocketseat/src/main/java/com/arimoura/rocketseat/atividadesRocketseat/Je04_horaDaVerdade/Transacao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +46,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.MinhaClasse.executor": "Run",
+    "Application.RodarContaCorrente.executor": "Run",
     "Application.VariaveisApp.executor": "Run",
     "RequestMappingsPanelOrder0": "0",
     "RequestMappingsPanelOrder1": "1",
@@ -139,11 +138,15 @@
       <option name="presentableId" value="Default" />
       <updated>1721583223721</updated>
       <workItem from="1721583224839" duration="850000" />
-      <workItem from="1721584256011" duration="1983000" />
+      <workItem from="1721584256011" duration="2315000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Exercise 04" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise 04" />
   </component>
 </project>
