@@ -15,6 +15,7 @@
       <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/atividadesRocketseat/src/main/java/com/arimoura/rocketseat/atividadesRocketseat/Je04_horaDaVerdade/ContaCorrente.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/atividadesRocketseat/src/main/java/com/arimoura/rocketseat/atividadesRocketseat/Je04_horaDaVerdade/RodarContaCorrente.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/atividadesRocketseat/src/main/java/com/arimoura/rocketseat/atividadesRocketseat/Je04_horaDaVerdade/Transacao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,7 +139,7 @@
       <option name="presentableId" value="Default" />
       <updated>1721583223721</updated>
       <workItem from="1721583224839" duration="850000" />
-      <workItem from="1721584256011" duration="2315000" />
+      <workItem from="1721584256011" duration="4695000" />
     </task>
     <servers />
   </component>
