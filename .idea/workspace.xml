@@ -6,6 +6,18 @@
   <component name="ChangeListManager">
     <list default="true" id="e530c359-568e-4e23-851f-dae6f490a7d9" name="Changes" comment="Exercise 04">
       <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/.idea/TreinamentoJavaRock.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/atividadesRocketseat/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/atividadesRocketseat/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/atividadesRocketseat/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/atividadesRocketseat/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/atividadesRocketseat/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/atividadesRocketseat/src/main/java/com/arimoura/rocketseat/atividadesRocketseat/AtividadesRocketseatApplication.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/atividadesRocketseat/src/main/java/com/arimoura/rocketseat/atividadesRocketseat/horaDaVerdade_01/ContaCorrente.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/atividadesRocketseat/src/main/java/com/arimoura/rocketseat/atividadesRocketseat/horaDaVerdade_01/RodarContaCorrente.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/atividadesRocketseat/src/main/java/com/arimoura/rocketseat/atividadesRocketseat/horaDaVerdade_01/Transacao.java" afterDir="false" />
@@ -20,6 +32,9 @@
       <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/atividadesRocketseat/src/main/java/com/arimoura/rocketseat/atividadesRocketseat/je05_tipos_wrappers/TiposWrappersComparativoVerdadeiro.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/atividadesRocketseat/src/main/java/com/arimoura/rocketseat/atividadesRocketseat/je05_tipos_wrappers/TiposWrappersComparativosFalsos.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/atividadesRocketseat/src/main/java/com/arimoura/rocketseat/atividadesRocketseat/je05_tipos_wrappers/TiposWrappersReatribuir.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/atividadesRocketseat/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/atividadesRocketseat/src/test/java/com/arimoura/rocketseat/atividadesRocketseat/AtividadesRocketseatApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/copilot/chatSessions/00000000000.xd" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/copilot/chatSessions/00000000000.xd" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TreinamentoJavaRock" beforeDir="false" afterPath="$PROJECT_DIR$/TreinamentoJavaRock" afterDir="false" />
     </list>
@@ -177,7 +192,7 @@
       <option name="presentableId" value="Default" />
       <updated>1721583223721</updated>
       <workItem from="1721583224839" duration="850000" />
-      <workItem from="1721584256011" duration="9840000" />
+      <workItem from="1721584256011" duration="11085000" />
     </task>
     <servers />
   </component>
