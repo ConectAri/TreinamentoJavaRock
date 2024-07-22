@@ -16,6 +16,8 @@
       <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/atividadesRocketseat/src/main/java/com/arimoura/rocketseat/atividadesRocketseat/je03_identacao/BoletimEstudantil02.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/atividadesRocketseat/src/main/java/com/arimoura/rocketseat/atividadesRocketseat/je03_identacao/IdentacaoApp.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/atividadesRocketseat/src/main/java/com/arimoura/rocketseat/atividadesRocketseat/je04_palavras_reservadas/tiposPrimitivos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/atividadesRocketseat/src/main/java/com/arimoura/rocketseat/atividadesRocketseat/je05_tipos_wrappers/TiposWrappers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/atividadesRocketseat/src/main/java/com/arimoura/rocketseat/atividadesRocketseat/je05_tipos_wrappers/TiposWrappersComparativo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +51,7 @@
   "keyToString": {
     "Application.MinhaClasse.executor": "Run",
     "Application.RodarContaCorrente.executor": "Run",
+    "Application.TiposWrappers.executor": "Run",
     "Application.VariaveisApp.executor": "Run",
     "RequestMappingsPanelOrder0": "0",
     "RequestMappingsPanelOrder1": "1",
@@ -68,13 +71,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.RodarContaCorrente">
-    <configuration name="MinhaClasse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.arimoura.rocketseat.atividadesRocketseat.je01_sinxate_semantica.MinhaClasse" />
+  <component name="RunManager" selected="Application.TiposWrappersComparativosFalsos">
+    <configuration name="RodarContaCorrente" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.arimoura.rocketseat.atividadesRocketseat.horaDaVerdade_01.RodarContaCorrente" />
       <module name="atividadesRocketseat" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.arimoura.rocketseat.atividadesRocketseat.je01_sinxate_semantica.*" />
+          <option name="PATTERN" value="com.arimoura.rocketseat.atividadesRocketseat.horaDaVerdade_01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +85,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RodarContaCorrente" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.arimoura.rocketseat.atividadesRocketseat.horaDaVerdade_01.RodarContaCorrente" />
+    <configuration name="TiposWrappers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.arimoura.rocketseat.atividadesRocketseat.je05_tipos_wrappers.TiposWrappers" />
       <module name="atividadesRocketseat" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.arimoura.rocketseat.atividadesRocketseat.horaDaVerdade_01.*" />
+          <option name="PATTERN" value="com.arimoura.rocketseat.atividadesRocketseat.je05_tipos_wrappers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TiposWrappersComparativoVerdadeiro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.arimoura.rocketseat.atividadesRocketseat.je05_tipos_wrappers.TiposWrappersComparativoVerdadeiro" />
+      <module name="atividadesRocketseat" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.arimoura.rocketseat.atividadesRocketseat.je05_tipos_wrappers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TiposWrappersComparativosFalsos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.arimoura.rocketseat.atividadesRocketseat.je05_tipos_wrappers.TiposWrappersComparativosFalsos" />
+      <module name="atividadesRocketseat" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.arimoura.rocketseat.atividadesRocketseat.je05_tipos_wrappers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,9 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TiposWrappersComparativosFalsos" />
+        <item itemvalue="Application.TiposWrappersComparativoVerdadeiro" />
+        <item itemvalue="Application.TiposWrappers" />
         <item itemvalue="Application.RodarContaCorrente" />
         <item itemvalue="Application.VariaveisApp" />
-        <item itemvalue="Application.MinhaClasse" />
       </list>
     </recent_temporary>
   </component>
@@ -140,7 +171,7 @@
       <option name="presentableId" value="Default" />
       <updated>1721583223721</updated>
       <workItem from="1721583224839" duration="850000" />
-      <workItem from="1721584256011" duration="5899000" />
+      <workItem from="1721584256011" duration="7912000" />
     </task>
     <servers />
   </component>
