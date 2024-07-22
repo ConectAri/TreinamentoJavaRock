@@ -17,8 +17,11 @@
       <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/atividadesRocketseat/src/main/java/com/arimoura/rocketseat/atividadesRocketseat/je03_identacao/IdentacaoApp.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/atividadesRocketseat/src/main/java/com/arimoura/rocketseat/atividadesRocketseat/je04_palavras_reservadas/tiposPrimitivos.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/atividadesRocketseat/src/main/java/com/arimoura/rocketseat/atividadesRocketseat/je05_tipos_wrappers/TiposWrappers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/atividadesRocketseat/src/main/java/com/arimoura/rocketseat/atividadesRocketseat/je05_tipos_wrappers/TiposWrappersComparativo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/atividadesRocketseat/src/main/java/com/arimoura/rocketseat/atividadesRocketseat/je05_tipos_wrappers/TiposWrappersComparativoVerdadeiro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/atividadesRocketseat/src/main/java/com/arimoura/rocketseat/atividadesRocketseat/je05_tipos_wrappers/TiposWrappersComparativosFalsos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/atividadesRocketseat/src/main/java/com/arimoura/rocketseat/atividadesRocketseat/je05_tipos_wrappers/TiposWrappersReatribuir.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TreinamentoJavaRock" beforeDir="false" afterPath="$PROJECT_DIR$/TreinamentoJavaRock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +55,9 @@
     "Application.MinhaClasse.executor": "Run",
     "Application.RodarContaCorrente.executor": "Run",
     "Application.TiposWrappers.executor": "Run",
+    "Application.TiposWrappersComparativo.executor": "Run",
+    "Application.TiposWrappersComparativosFalsos.executor": "Run",
+    "Application.TiposWrappersReatribuir.executor": "Run",
     "Application.VariaveisApp.executor": "Run",
     "RequestMappingsPanelOrder0": "0",
     "RequestMappingsPanelOrder1": "1",
@@ -71,7 +77,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.TiposWrappersComparativosFalsos">
+  <component name="RunManager" selected="Application.TiposWrappersReatribuir">
     <configuration name="RodarContaCorrente" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.arimoura.rocketseat.atividadesRocketseat.horaDaVerdade_01.RodarContaCorrente" />
       <module name="atividadesRocketseat" />
@@ -124,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VariaveisApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.arimoura.rocketseat.atividadesRocketseat.je02_variaveis.VariaveisApp" />
+    <configuration name="TiposWrappersReatribuir" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.arimoura.rocketseat.atividadesRocketseat.je05_tipos_wrappers.TiposWrappersReatribuir" />
       <module name="atividadesRocketseat" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.arimoura.rocketseat.atividadesRocketseat.je02_variaveis.*" />
+          <option name="PATTERN" value="com.arimoura.rocketseat.atividadesRocketseat.je05_tipos_wrappers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TiposWrappersReatribuir" />
         <item itemvalue="Application.TiposWrappersComparativosFalsos" />
         <item itemvalue="Application.TiposWrappersComparativoVerdadeiro" />
         <item itemvalue="Application.TiposWrappers" />
         <item itemvalue="Application.RodarContaCorrente" />
-        <item itemvalue="Application.VariaveisApp" />
       </list>
     </recent_temporary>
   </component>
@@ -171,7 +177,7 @@
       <option name="presentableId" value="Default" />
       <updated>1721583223721</updated>
       <workItem from="1721583224839" duration="850000" />
-      <workItem from="1721584256011" duration="7912000" />
+      <workItem from="1721584256011" duration="8685000" />
     </task>
     <servers />
   </component>
