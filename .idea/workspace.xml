@@ -12,9 +12,11 @@
       <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/copilot/chatSessions/00000000000.xd" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/copilot/chatSessions/00000000000.xd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TreinamentoJavaRock" beforeDir="false" afterPath="$PROJECT_DIR$/TreinamentoJavaRock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TreinamentoJavaRock/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/TreinamentoJavaRock/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atividadesRocketseat/src/main/java/com/arimoura/rocketseat/atividadesRocketseat/je05_tipos_wrappers/TiposWrappers.java" beforeDir="false" afterPath="$PROJECT_DIR$/atividadesRocketseat/src/main/java/com/arimoura/rocketseat/atividadesRocketseat/je05_tipos_wrappers/TiposWrappers.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +31,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/TreinamentoJavaRock" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -43,33 +45,33 @@
     <option name="showLibraryContents" value="true" />
     <option name="showScratchesAndConsoles" value="false" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.MinhaClasse.executor": "Run",
-    "Application.RodarContaCorrente.executor": "Run",
-    "Application.TiposWrappers.executor": "Run",
-    "Application.TiposWrappersComparativo.executor": "Run",
-    "Application.TiposWrappersComparativosFalsos.executor": "Run",
-    "Application.TiposWrappersReatribuir.executor": "Run",
-    "Application.VariaveisApp.executor": "Run",
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "Spring Boot.AtividadesRocketseatApplication.executor": "Run",
-    "git-widget-placeholder": "feature/treinamento-java",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/arimoura/Desktop/RocketSeatGitPessoal",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.MinhaClasse.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RodarContaCorrente.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TiposWrappers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TiposWrappersComparativo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TiposWrappersComparativosFalsos.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TiposWrappersReatribuir.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VariaveisApp.executor&quot;: &quot;Run&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.AtividadesRocketseatApplication.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;feature/treinamento-java&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/arimoura/Desktop/RocketSeatGitPessoal&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -177,6 +179,8 @@
       <updated>1721583223721</updated>
       <workItem from="1721583224839" duration="850000" />
       <workItem from="1721584256011" duration="12420000" />
+      <workItem from="1722198445952" duration="590000" />
+      <workItem from="1722204603393" duration="18000" />
     </task>
     <servers />
   </component>
