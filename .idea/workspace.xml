@@ -12,28 +12,7 @@
       <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/atividadesRocketseat/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/atividadesRocketseat/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/atividadesRocketseat/atividadesRocketseat/AtividadesRocketseatApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/atividadesRocketseat/atividadesRocketseat/horaDaVerdade_01/ContaCorrente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/atividadesRocketseat/atividadesRocketseat/horaDaVerdade_01/RodarContaCorrente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/atividadesRocketseat/atividadesRocketseat/horaDaVerdade_01/Transacao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/atividadesRocketseat/atividadesRocketseat/je01_sinxate_semantica/Conta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/atividadesRocketseat/atividadesRocketseat/je01_sinxate_semantica/MinhaClasse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/atividadesRocketseat/atividadesRocketseat/je02_variaveis/VariaveisApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/atividadesRocketseat/atividadesRocketseat/je03_identacao/BoletimEstudantil01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/atividadesRocketseat/atividadesRocketseat/je03_identacao/BoletimEstudantil02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/atividadesRocketseat/atividadesRocketseat/je03_identacao/IdentacaoApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/atividadesRocketseat/atividadesRocketseat/je04_palavras_reservadas/tiposPrimitivos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/atividadesRocketseat/atividadesRocketseat/je05_tipos_wrappers/TiposWrappers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/atividadesRocketseat/atividadesRocketseat/je05_tipos_wrappers/TiposWrappersComparativoVerdadeiro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/atividadesRocketseat/atividadesRocketseat/je05_tipos_wrappers/TiposWrappersComparativosFalsos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/atividadesRocketseat/atividadesRocketseat/je05_tipos_wrappers/TiposWrappersReatribuir.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/atividadesRocketseat/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/atividadesRocketseat/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/atividadesRocketseat/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/atividadesRocketseat/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/atividadesRocketseat/src/test/java/com/arimoura/rocketseat/atividadesRocketseat/AtividadesRocketseatApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TreinamentoJavaRock" beforeDir="false" afterPath="$PROJECT_DIR$/TreinamentoJavaRock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TreinamentoJavaRock/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/TreinamentoJavaRock/.gitignore" afterDir="false" />
     </list>
@@ -91,6 +70,12 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/TreinamentoJavaRock/.idea" />
+    </key>
+  </component>
   <component name="RunManager" selected="Application.TiposWrappersReatribuir">
     <configuration name="RodarContaCorrente" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.arimoura.rocketseat.atividadesRocketseat.horaDaVerdade_01.RodarContaCorrente" />
@@ -191,7 +176,7 @@
       <option name="presentableId" value="Default" />
       <updated>1721583223721</updated>
       <workItem from="1721583224839" duration="850000" />
-      <workItem from="1721584256011" duration="11949000" />
+      <workItem from="1721584256011" duration="12420000" />
     </task>
     <servers />
   </component>
