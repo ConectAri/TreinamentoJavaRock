@@ -5,18 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e530c359-568e-4e23-851f-dae6f490a7d9" name="Changes" comment="Exercise 04">
-      <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/.idea/TreinamentoJavaRock.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TreinamentoJavaRock/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/copilot/chatSessions/00000000000.xd" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/copilot/chatSessions/00000000000.xd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/copilot/chatSessions/xd.lck" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/copilot/chatSessions/xd.lck" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TreinamentoJavaRock" beforeDir="false" afterPath="$PROJECT_DIR$/TreinamentoJavaRock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TreinamentoJavaRock/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/TreinamentoJavaRock/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/atividadesRocketseat/src/main/java/com/arimoura/rocketseat/atividadesRocketseat/je05_tipos_wrappers/TiposWrappers.java" beforeDir="false" afterPath="$PROJECT_DIR$/atividadesRocketseat/src/main/java/com/arimoura/rocketseat/atividadesRocketseat/je05_tipos_wrappers/TiposWrappers.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +22,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -45,33 +41,34 @@
     <option name="showLibraryContents" value="true" />
     <option name="showScratchesAndConsoles" value="false" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.MinhaClasse.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RodarContaCorrente.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TiposWrappers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TiposWrappersComparativo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TiposWrappersComparativosFalsos.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TiposWrappersReatribuir.executor&quot;: &quot;Run&quot;,
-    &quot;Application.VariaveisApp.executor&quot;: &quot;Run&quot;,
-    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
-    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
-    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
-    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;Spring Boot.AtividadesRocketseatApplication.executor&quot;: &quot;Run&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;feature/treinamento-java&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/arimoura/Desktop/RocketSeatGitPessoal&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.MinhaClasse.executor": "Run",
+    "Application.RodarContaCorrente.executor": "Run",
+    "Application.TiposWrappers.executor": "Run",
+    "Application.TiposWrappersComparativo.executor": "Run",
+    "Application.TiposWrappersComparativosFalsos.executor": "Run",
+    "Application.TiposWrappersReatribuir.executor": "Run",
+    "Application.VariaveisApp.executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.AtividadesRocketseatApplication.executor": "Run",
+    "git-widget-placeholder": "feature/treinamento-java",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/arimoura/Desktop/Rockt/TreinamentoJavaRock",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -162,13 +159,6 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-322ed176" />
-      </set>
-    </attachedChunks>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -181,6 +171,8 @@
       <workItem from="1721584256011" duration="12420000" />
       <workItem from="1722198445952" duration="590000" />
       <workItem from="1722204603393" duration="18000" />
+      <workItem from="1724442568026" duration="22000" />
+      <workItem from="1724442620922" duration="147000" />
     </task>
     <servers />
   </component>
